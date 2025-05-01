@@ -1,0 +1,7 @@
+id,recruitment,impairment,age_of_onset,screen_readers,ai_tools
+1,Wikipedia,Totally blind,Since birth,"NVDA, Jaws, VoiceOver","GPT, Claude, Gemini, Picture Smart"
+2,Prolific,Light perception,58,"NVDA, Talkback, Jaws, VoiceOver",Gemini
+3,Prolific,Light perception,13,Talkback,"GPT, Bing, Google Chrome Descriptions"
+4,Wikipedia,Totally blind,Since birth,"NVDA, Talkback, Jaws, VoiceOver","GPT, Gemini, Co-pilot, Bing, Seeing AI"
+5,Prolific,Light perception,22,Talkback,GPT
+6,Wikipedia,Totally blind,2,"NVDA, Jaws, VoiceOver","Seeing AI, Picture Smart"
